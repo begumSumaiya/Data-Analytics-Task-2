@@ -12,5 +12,5 @@ Sample - Superstore
 ## Visualizations
 - Sales by Category
 - Sales by Region
-- Sales by Date
+- Sales by Trend
 - Sales by Segment
